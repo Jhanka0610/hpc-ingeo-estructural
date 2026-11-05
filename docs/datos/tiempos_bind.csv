@@ -1,0 +1,7 @@
+metodo,n,procesos,repeticion,tiempo_s
+gauss_seidel,2400,4,1,1.185850
+gauss_seidel,2400,4,2,1.176693
+gauss_seidel,2400,4,3,1.184230
+gauss_jordan,2400,4,1,22.974940
+gauss_jordan,2400,4,2,23.073921
+gauss_jordan,2400,4,3,23.896094
